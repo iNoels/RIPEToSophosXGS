@@ -1,0 +1,19 @@
+% Information related to '80.128.0.0 - 80.128.0.255'
+
+inetnum:        80.128.0.0 - 80.128.0.255
+netname:        DTAG-DIAL-DE
+country:        DE
+status:         ASSIGNED PA
+org:            ORG-DTAG1-RIPE
+
+inetnum:        192.0.2.0 - 192.0.2.255
+netname:        OTHER-NET
+country:        DE
+status:         ASSIGNED PA
+org:            ORG-DTAG1-RIPE
+
+inet6num:       2003:db8:1234::/48
+netname:        DTAG-DIAL-V6
+country:        DE
+status:         AGGREGATED-BY-LIR
+org:            ORG-DTAG1-RIPE

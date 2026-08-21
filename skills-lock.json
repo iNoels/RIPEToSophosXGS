@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "bash": {
+      "source": "bentsolheim/public-skills",
+      "sourceType": "github",
+      "skillPath": "skills/bash/SKILL.md",
+      "computedHash": "cf9a3d904b75c7d4b5893b88241bdddcbd5238f6648b10b41ec8c9e241933c55"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+work/
+outputs/
+
+# Agent-/Assistenten-Konfiguration (lokal, nicht Teil des Projekts)
+.claude/
+.agents/
+.cursor/
+.cursorrules
+.github/copilot-instructions.md
+.codex/
+.gemini/
+GEMINI.md
+
+# Temporäre Dateien
+*.tmp
+*.temp
+*.bak
+*.swp
+.DS_Store
